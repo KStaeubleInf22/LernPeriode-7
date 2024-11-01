@@ -15,8 +15,15 @@ Heute habe ich angefangen mit der Planung für diese Lernperiode. Die Idee ist d
 Heute habe ich damit angefangen, indem ich mir ausgedacht habe, was ich für ein Projekt machen wollte. Ich habe mich dafür entschieden, ein kleines Spiel zu machen, dass wie ein rundes basiertes Kampfspiel funktioniert. Ich habe angefangen ein paar Klassen zu erstellen. Ich habe ein paar grundlegende Variablen erstellt, bevor ich an meinen Aufgaben für das Modul 294 gearbeitet habe, die ich noch nicht fertig schaffen konnte.(67)
 
 ## 1.11
-[ ] Ich werde die Klassen mit einander verbinden.
+[X] Ich werde die Klassen mit einander verbinden.
 [ ] Ich werde versuchen, Winforms einzubauen.
 [ ] Simpled attacken programmiert haben.
-[ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+[X] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
 
+Ich habe mich entschieden, Winforms eventuell nicht zu benutzen, da es mir bei keinen der Module helfen wird. Daher habe ich mich entschieden fürs erste ohne Winforms weiterzumachen. Ich habe im Programm die verschiedenen Klassen, die ich schon erstellt habe, miteinander verbunden. Danach habe ich einen verspäteten Auftrag vom Modul 294 fertiggestellt. Es hat länger gebraucht, als erwartet und deswegen konnte ich nicht mehr Fortschritt machen.(66)
+
+## 8.11
+[ ] Mehrere Spieler erlauben.
+[ ] Simpled attacken programmiert haben.
+[ ] RNG Elemente einbauen.
+[ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
