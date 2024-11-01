@@ -7,11 +7,16 @@ Ich habe in dieser Lern-Periode sehr viel Zeit, an einem Projekt zu arbeiten. Ic
 Heute habe ich angefangen mit der Planung für diese Lernperiode. Die Idee ist das ich in C# ein kleines Spiel programmiere. Ich habe mir aber noch nicht ausdenken können, was für eine Art spiel es sein würde. Vielleicht werde ich auch Winforms benutzen, aber in der Zwischenzeit, habe ich an der OBA für das Modul gearbeitet. Ich konnte den Code für den DiceCup und für die CLI erarbeitet.(69)
 
 ## 25.10
-[ ] Ich finde eine Idee für ein Spiel dass ich machen kann für die LP in C#.
-[ ] Ich werde mein Projekt für diese LP beginnen.
+[X] Ich finde eine Idee für ein Spiel dass ich machen kann für die LP in C#.
+[X] Ich werde mein Projekt für diese LP beginnen.
 [ ] Ich werde versuchen, Winforms einzubauen.
+[X] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+
+Heute habe ich damit angefangen, indem ich mir ausgedacht habe, was ich für ein Projekt machen wollte. Ich habe mich dafür entschieden, ein kleines Spiel zu machen, dass wie ein rundes basiertes Kampfspiel funktioniert. Ich habe angefangen ein paar Klassen zu erstellen. Ich habe ein paar grundlegende Variablen erstellt, bevor ich an meinen Aufgaben für das Modul 294 gearbeitet habe, die ich noch nicht fertig schaffen konnte.(67)
+
+## 1.11
+[ ] Ich werde die Klassen mit einander verbinden.
+[ ] Ich werde versuchen, Winforms einzubauen.
+[ ] Simpled attacken programmiert haben.
 [ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
