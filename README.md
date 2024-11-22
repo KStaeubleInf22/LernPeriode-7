@@ -31,7 +31,25 @@ Ich habe mich entschieden, Winforms eventuell nicht zu benutzen, da es mir bei k
 Heute habe ich damit begonnen, am Ablauf des Programms zu arbeiten. Derzeit kann man es nur mit dem Algorithmus spielen aber auf das nächste Mal möchte ich, die Mehrspieler-Funktionalität implementiert. Im Modul 294 habe ich außerdem an den Themen JSON und DOM-Manipulation weitergearbeitet, da diese Aufgaben noch ausstanden. Das Programm braucht aber mehr RNG-Aspekte, da es gerade sehr simpel ist.(60)
 
 ## 15.11
-- [ ] Mehrere Spieler erlauben.
-- [ ] Mehr Kampfoptionen.
+- [X] Mehrere Spieler erlauben.
+- [X] Mehr Kampfoptionen.
 - [ ] RNG Elemente einbauen.
+- [X] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+
+Heute habe ich damit angefangen, am Modul 294 zu arbeiten. Ich musste noch eine Abgabe fertigstellen und konnte die Zeit vom LA nutzen, um das zu machen. Nachdem ich die Abgabe erledigt hatte, habe ich angefangen wieder an meinem Projekt zu arbeiten. Ich habe am 2 Spieler Modus gearbeitet und konnte es zum Grossteil funktional einfügen, aber ein paar Kampf Optionen fehlen noch. (63)
+
+## 22.11
+
+- [X] Kampfoptionen kompatibel machen für Mehrspieler.
+- [X] RNG Elemente einbauen.
+- [X] Ein neues Projekt planen.
+- [X] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+
+Heute habe ich hauptsächlich an meinem Projekt gearbeitet. Ich konnte die fehlenden Kampfoption implementieren und ein RNG-Element einbringen indem der schaden sich leich variieren würde, basierend auf glück. Nachdem ich zufrieden war, habe ich darüber nachgedacht was ich als nächstes hätte machen können. Ich habe mich dafür entschieden, das ich in den kommenden paar LA Lektionen an der LB für das Modul 294 arbeiten würde. ich habe heute noch leicht am Modul 450 gearbeitet. (74)
+
+## 29.11
+
+- [ ] Die LB im Modul 294 anfangen.
+- [ ] Erstellung von der Json File.
+- [ ] Versuchen Input validierung einzubauen.
 - [ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
