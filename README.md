@@ -49,7 +49,16 @@ Heute habe ich hauptsächlich an meinem Projekt gearbeitet. Ich konnte die fehle
 
 ## 29.11
 
-- [ ] Die LB im Modul 294 anfangen.
-- [ ] Erstellung von der Json File.
-- [ ] Versuchen Input validierung einzubauen.
+- [X] Die LB im Modul 294 anfangen.
+- [X] Erstellung von der Json File.
+- [X] Versuchen Input validierung einzubauen.
+- [ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+
+Heute habe ich an der LB für das Modul gearbeitet. Ich mache eine Adressierungsliste. Ich habe angefangen damit, alle Aspekte wie HTML, CSS und JS zu erstellen. Als ich die Basis Dateien hatte, habe ich angefangen die Daten in die JSON-File einzufügen. Nachdem ich das erledigt habe, habe ich angefangen die Webseitenfunktionen zu bauen. Ich habe eine Basis mit einem Custom Login und Knöpfe, mit denen man die neuen Daten einfügen kann, Daten löschen kann und Daten bearbeitet kann, aber diese knöpfe haben noch keine Funktion. (86)
+
+## 6.12 
+
+- [ ] Login funktion einfügen bassierend auf Baden Login.
+- [ ] DOM Manipulation efügen.
+- [ ] CRUD einbauen.
 - [ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
