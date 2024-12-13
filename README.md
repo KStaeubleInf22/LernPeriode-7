@@ -58,7 +58,17 @@ Heute habe ich an der LB für das Modul gearbeitet. Ich mache eine Adressierungs
 
 ## 6.12 
 
-- [ ] Login funktion einfügen bassierend auf Baden Login.
-- [ ] DOM Manipulation efügen.
-- [ ] CRUD einbauen.
+- [X] Login funktion einfügen bassierend auf Baden Login.
+- [X] DOM Manipulation efügen.
+- [X] CRUD einbauen.
 - [ ] Falls es wirklich nötig ist, werde ich an einem anderen Modul arbeiten.
+
+Heute habe ich an der LB. Am Tag davor habe ich die LB neu angefangen, weil ich meinen Code nicht benutzen konnte und deswegen habe ich es erneuert. Ich hatte am Vorabend alles vorgearbeitet, aber musste immer noch CRUD-Funktionen einfügen. Nach einer Weile von arbeiten und Frustration konnte ich Create einfügen. Nachdem ich das hatte, konnte ich sehr schnell Delete einfügen. Da die Zeit langsam knapp wurde habe ich an der Dokumentation gearbeitet und die Weiteren Aufträge erfüllt wie Selenium benutzen, Git benutzen und den Code auf Git hochladen.(89)
+
+
+## 13.12 
+
+- [ ] Unreal Engine Projekt anfangen.
+- [ ] Implementation von einer waffen mit mehreren Moden
+- [ ] Verschiedene Aktionen bassierend auf den Modus
+- [ ] Funktionale Munition
