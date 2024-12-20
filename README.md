@@ -68,7 +68,9 @@ Heute habe ich an der LB. Am Tag davor habe ich die LB neu angefangen, weil ich 
 
 ## 13.12 
 
-- [ ] Unreal Engine Projekt anfangen.
-- [ ] Implementation von einer waffen mit mehreren Moden
-- [ ] Verschiedene Aktionen bassierend auf den Modus
-- [ ] Funktionale Munition
+- [X] Unreal Engine Projekt anfangen.
+- [X] Implementation von einer waffen mit mehreren Moden
+- [X] Verschiedene Aktionen bassierend auf den Modus
+- [X] Funktionale Munition
+
+Ich habe ein Projekt in Unreal Engine erstellt. Ich habe schon erfahrung mit dem Program und wollte mein können Testen. Ich hatte bereits schon ein Gewehr-Modell erstellt das ich ins spiel importiert habe.
